@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Howdy, Kiara Bickers here.
 
-<!--
-**kiarafbickers/kiarafbickers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kiara Bickers xxx
 
-Here are some ideas to get you started:
+[Read more on kiarabickers.com →](https://kiarabickers.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>README — A guide to work with me</summary>
+
+  ## About me
+  
+  xxx
+  
+  ## Quirks
+  
+  xxx
+  
+  PinnedLoading
+   upptime/upptime Public template
+  ⬆️ GitHub Actions uptime monitor & status page by @kiarabickers
+</details>
